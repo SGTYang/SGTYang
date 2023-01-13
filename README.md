@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/Go-21375A?style=flat&logo=Go&logoColor=00ADD8"/>
 <img src="https://img.shields.io/badge/Linux-21375A?style=flat&logo=Linux&logoColor=FCC624"/>
 <img src="https://img.shields.io/badge/Airflow-21375A?style=flat&logo=ApacheAirflow&logoColor=017CEE"/>
-</div>
 <img src="https://img.shields.io/badge/PostgreSQL-21375A?style=flat&logo=PostgreSQL&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/Elasticsearch-21375A?style=flat&logo=Elasticsearch&logoColor=005571"/>
 <img src="https://img.shields.io/badge/MLflow-21375A?style=flat&logo=MLflow&logoColor=0194E2"/>
