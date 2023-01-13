@@ -1,11 +1,16 @@
 <h3>Skills</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=326CE5"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=Docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Pytorch-000000?style=flat&logo=Pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/Go-000000?style=flat&logo=Go&logoColor=00ADD8"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=Linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Python-21375A?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Kubernetes-21375A?style=flat&logo=Kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/Docker-21375A?style=flat&logo=Docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Pytorch-21375A?style=flat&logo=Pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Go-21375A?style=flat&logo=Go&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/Linux-21375A?style=flat&logo=Linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Airflow-21375A?style=flat&logo=ApacheAirflow&logoColor=017CEE"/>
+</div>
+<img src="https://img.shields.io/badge/PostgreSQL-21375A?style=flat&logo=PostgreSQL&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Elasticsearch-21375A?style=flat&logo=Elasticsearch&logoColor=005571"/>
+<img src="https://img.shields.io/badge/MLflow-21375A?style=flat&logo=MLflow&logoColor=0194E2"/>
 </div>
 
 <h3>Contributed open source projects</h3>
