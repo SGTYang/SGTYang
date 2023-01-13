@@ -1,3 +1,11 @@
+<h3>Skills</h3>
+<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=Docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Pytorch-000000?style=flat&logo=Pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/Go-000000?style=flat&logo=Go&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=Linux&logoColor=FCC624"/>
+
 <h3>Contributed open source projects</h3>
 <table>
   <thead align="center">
