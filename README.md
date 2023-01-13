@@ -1,5 +1,5 @@
 <h3>Skills</h3>
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=326CE5"/>
 <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=Docker&logoColor=2496ED"/>
